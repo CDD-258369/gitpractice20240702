@@ -49,3 +49,5 @@ output_filename = os.path.join(output_dir, 'ExtractedText.docx')
 doc.save(output_filename)
 
 print(f'Document saved to {output_filename}')
+print("congratulations for the first trying")
+print("keep going good girl")
